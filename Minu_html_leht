@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My fav films</title>
+    <style>
+        body
+        {
+            background: powderblue;
+        }
+    </style>
+    <h1 align="center">This page is about my favourite movies and TV series!</h1>
+    <h2 align="center">My name is Alan and my code is: 213074IAIB</h2>
+    <h2 align="center">I study at <a href=" https://taltech.ee/">TalTech</a></h2>
+    <hr>
+</head>
+<body>
+    <h2 align="center">The following table contains some of my favourite projects</h2>
+    <style>
+    table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+    </style>
+    <table style="width:100%; font-size: 130%;">
+        <tr style="font-size: 130%; font-style: italic">
+            <th>Title</th>
+            <th>Release year</th>
+            <th>Genre</th>
+            <th>Director</th>
+            <th>Revenue ($M)</th>
+        </tr>
+        <tr>
+            <th>Maze Runner</th>
+            <th>2014</th>
+            <th>Action, Dystopia</th>
+            <th>Wes Ball</th>
+            <th>348,3</th>
+        </tr>
+        <tr>
+            <th>Squid Game</th>
+            <th>2021</th>
+            <th>Action</th>
+            <th>Hwang Dong-hyeok</th>
+            <th>N/A</th>
+        </tr>
+        <tr>
+            <th>Supernatural</th>
+            <th>2005</th>
+            <th>Fantasy, Thriller</th>
+            <th>Eric Kripke</th>
+            <th>N/A</th>
+        </tr>
+        <tr>
+            <th>Pirates of the Caribbean: <br>The Curse of the Black Pearl</th>
+            <th>2003</th>
+            <th>Action</th>
+            <th>Gore Verbinski</th>
+            <th>654,3</th>
+        </tr>
+        <tr>
+            <th>Ready Player One</th>
+            <th>2018</th>
+            <th>Action, Fantasy, Dystopia</th>
+            <th>Steven Spielberg</th>
+            <th>582,9</th>
+        </tr>
+    </table>
+
+    <h4 align="center"; style="color: darkred">NB! Please note that this list is based on my humble opinion.</h4>
+    <img src="https://cdn.wallpapersafari.com/36/59/wIAhzW.jpg" alt="Captain Jack Sparrow!" width="180" height="140" style="float:right">
+    <h3 align="left">The objective of this web-page is to share with everyone my favourite movies and TV series.<br>
+    Table provided above contains various information such as title of the project, release year, genre, the name of the director and world revenue.<br>
+    Please note that since not every producing company has shared the information on their income from certain projects <br>
+    then some of the data remains unavailable and is marked as 'N/A'.</h3>
+    <h4>All the information was taken from open-sources such as <a href="https://www.google.com/">Google</a> and <a href="https://www.wikipedia.org/">Wikipedia</a>.</h4>
+    <hr>
+    <h3 align="center">This web page is created by using PyCharm virtual environment and HTML5.</h3>
+</body>
+</html>
